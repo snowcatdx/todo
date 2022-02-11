@@ -86,6 +86,8 @@ header {
     position: absolute;
     top: 16px;
     right: 8px;
+    border: none;
+    outline: none;
     background: url("../img/add-circle-outline.svg") center center /30px no-repeat;
 }
 
